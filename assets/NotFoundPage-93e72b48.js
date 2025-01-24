@@ -1,1 +1,0 @@
-import{u as n,j as t}from"./index-89d30d02.js";const a=()=>{const e=n();return t.jsxs("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh"},children:["Page Not Found...",t.jsx("button",{onClick:()=>e("/"),className:"notbutton",children:"Kembali"})]})};export{a as default};
