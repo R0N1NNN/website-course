@@ -1,0 +1,1 @@
+import{u as s,j as t}from"./index-4a7b1fe1.js";const o=()=>{const e=s();return t.jsxs("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh"},children:["Page Not Found...",t.jsx("button",{onClick:()=>e("/website-course"),className:"notbutton",children:"Kembali"})]})};export{o as default};
